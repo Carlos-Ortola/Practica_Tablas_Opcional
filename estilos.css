@@ -1,3 +1,9 @@
 body{
-    
+    background-color: rgb(255, 182, 45);
+}
+table{
+    text-align: center;
+}
+h1{
+    color: red;
 }
